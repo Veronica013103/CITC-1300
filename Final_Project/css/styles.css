@@ -142,3 +142,11 @@ hr.dotted {
     border-width: 2px 0 0;
     background-color: #4E5438;
 }
+.meme {
+    width: 90%;
+}
+
+.video {
+  display: block;
+  margin: 0 auto;
+}
