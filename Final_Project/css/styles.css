@@ -78,7 +78,16 @@ main {
     padding: 20px;
     display: block;
     border: 2px solid black;
-    border-radius: 20px;   
+    border-radius: 20px;
+    width: 50%;
+}
+
+.text-container-two {
+    background-color: #4E5438;
+    padding: 20px;
+    display: block;
+    border: 2px solid black;
+    border-radius: 20px;
 }
 
 .banner {
@@ -93,6 +102,7 @@ h1, h2, h3 {
 p, li {
     font-family: "Merriweather", serif;
     letter-spacing: 1px;
+    text-align: center;
 }
 
 .bannertwo {
@@ -106,5 +116,9 @@ p, li {
 }
 
 .movieposter {
+    width: 30%;
+}
+
+.book {
     width: 30%;
 }
