@@ -122,3 +122,23 @@ p, li {
 .book {
     width: 30%;
 }
+
+.fashion {
+    width: 30%;
+}
+
+.image-row {
+    display: flex;
+    justify-content: center;
+    width: 28%;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin: 0% auto;
+  }
+
+hr.dotted {
+    display: block;
+    border-style: dashed; color: black;
+    border-width: 2px 0 0;
+    background-color: #4E5438;
+}
