@@ -126,7 +126,8 @@
         padding: 1px;
         border-radius: 30px;
         font-family: "Playwrite GB J", serif;
-        border-style: black;
+        border-style: solid;
+        color: black;
     }
     
     nav ul {
@@ -238,7 +239,8 @@
     
     hr.dotted {
         display: block;
-        border-style: dashed; color: black;
+        border-style: dashed;
+        color: black;
         border-width: 2px 0 0;
         background-color: #4E5438;
     }
