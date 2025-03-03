@@ -24,7 +24,8 @@
         padding: 1px;
         border-radius: 30px;
         font-family: "Playwrite GB J", serif;
-        border-style: black;
+        border-style: solid;
+        color: black;
     }
 
     nav ul {
